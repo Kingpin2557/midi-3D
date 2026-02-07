@@ -26,12 +26,12 @@
     }
 
     &--active {
-        border: 5px solid royalblue;
+        border: 5px solid #6a6a6a;
     }
 
     &:hover {
         cursor: pointer;
-        border: 5px solid royalblue;
+        border: 5px solid #6a6a6a;
 
         transition: all 300ms ease-in-out;
     }
