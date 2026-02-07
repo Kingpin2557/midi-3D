@@ -1,0 +1,10 @@
+.c-icon {
+    &--trash {
+        transition: all 50ms ease-in-out;
+
+        &:hover {
+            fill: #e01515;
+            transition: all 50ms ease-in-out;
+        }
+    }
+}
